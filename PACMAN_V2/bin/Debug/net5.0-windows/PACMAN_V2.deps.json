@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PACMAN_V2/1.0.0": {
+        "runtime": {
+          "PACMAN_V2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PACMAN_V2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS8602: Dereferenziamento di un possibile riferimento Null.
+dotnet_diagnostic.CS8602.severity = none
