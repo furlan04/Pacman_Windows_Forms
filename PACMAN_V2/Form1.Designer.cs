@@ -654,9 +654,9 @@
             // pictureBox7
             // 
             this.pictureBox7.BackColor = System.Drawing.SystemColors.Info;
-            this.pictureBox7.Location = new System.Drawing.Point(709, 125);
+            this.pictureBox7.Location = new System.Drawing.Point(709, 139);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(346, 156);
+            this.pictureBox7.Size = new System.Drawing.Size(346, 142);
             this.pictureBox7.TabIndex = 10;
             this.pictureBox7.TabStop = false;
             this.pictureBox7.Tag = "Muro";
@@ -724,9 +724,9 @@
             // pictureBox14
             // 
             this.pictureBox14.BackColor = System.Drawing.SystemColors.Info;
-            this.pictureBox14.Location = new System.Drawing.Point(258, 125);
+            this.pictureBox14.Location = new System.Drawing.Point(258, 139);
             this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(80, 156);
+            this.pictureBox14.Size = new System.Drawing.Size(80, 142);
             this.pictureBox14.TabIndex = 17;
             this.pictureBox14.TabStop = false;
             this.pictureBox14.Tag = "Muro";
