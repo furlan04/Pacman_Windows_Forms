@@ -9,10 +9,11 @@ namespace PACMAN_V2
 {
     public partial class Form1 : Form
     {
+        #region VARIABILI
         Giocatore? player = null;
         bool su, giu, sinistra, destra;
         int cont = 0;
-        int pacman_mangiati = 0;
+        int pacman_mangiati = 0, bonus_mangiati = 0;
         int punti, velocitàPacMan = 40, numeroVite = 3, livello = 1;
         bool rosa_mangibile = false, rosso_mangibile = false;
         bool perso = false;
@@ -25,6 +26,7 @@ namespace PACMAN_V2
         Random r = new Random();
         List<Giocatore> giocatores = new List<Giocatore>();
         const string path = "../../../dati.csv";
+        #endregion
         void caricaUtenti()
         {
             if (!File.Exists(path))
@@ -53,10 +55,26 @@ namespace PACMAN_V2
 
             Reset();
         }
+        #region Controlli
         bool èConsumabile(string tag)
         {
             return tag == "Coin" || tag == "Bonus" || tag == "Mangia";
         }
+        bool vittoria()
+        {
+            foreach (Control item in this.Controls)
+            {
+                if (item is PictureBox && item != null)
+                {
+                    if (èConsumabile((string)item.Tag) && item.Visible)
+                    {
+                        return false;
+                    }
+                }
+            }
+            return true;
+        }
+        #endregion
         private void button1_Click(object sender, EventArgs e)
         {
             string nome = Inserimento_nome.Text;
@@ -79,6 +97,10 @@ namespace PACMAN_V2
                         break;
                 }
             }
+            if(nome == null)
+            {
+                nome = "nome-assente";
+            }
             if (nome != null)
             {
                 if (giocatores.Contains(new Giocatore { Nome = nome }))
@@ -96,7 +118,8 @@ namespace PACMAN_V2
             {
                 if (èConsumabile((string)item.Tag))
                 {
-                    item.Visible = true;
+                    if(!((string)item.Tag == "Bonus" && bonus_mangiati >= 4))
+                        item.Visible = true;
                 }
             }
             PacMan.Visible = true;
@@ -107,20 +130,7 @@ namespace PACMAN_V2
             perso = false;
             Reset();
         }
-        bool vittoria()
-        {
-            foreach (Control item in this.Controls)
-            {
-                if (item is PictureBox && item != null)
-                {
-                    if (èConsumabile((string)item.Tag) && item.Visible)
-                    {
-                        return false;
-                    }
-                }
-            }
-            return true;
-        }
+        #region Fantasmi
         void Muovi_Rosso()
         {
             int vel = difficoltà == 1 ? speed_facile : speed_difficile;
@@ -131,25 +141,57 @@ namespace PACMAN_V2
                     case 1:
                         if (PacMan.Left < Fantasma_Rosso.Left)
                         {
-                            Fantasma_Rosso.Left -= vel;
-                            redlast = 2;
+                            if (!rosso_mangibile)
+                            {
+                                Fantasma_Rosso.Left -= vel;
+                                redlast = 2;
+                            }
+                            else
+                            {
+                                Fantasma_Rosso.Left += vel;
+                                redlast = 1;
+                            }
                         }
                         else
                         {
-                            Fantasma_Rosso.Left += vel;
-                            redlast = 1;
+                            if (!rosso_mangibile)
+                            {
+                                Fantasma_Rosso.Left += vel;
+                                redlast = 1;
+                            }
+                            else
+                            {
+                                Fantasma_Rosso.Left -= vel;
+                                redlast = 2;
+                            }
                         }
                         break;
                     case 2:
                         if (PacMan.Top < Fantasma_Rosso.Top)
                         {
-                            Fantasma_Rosso.Top -= vel;
-                            redlast = 4;
+                            if (!rosso_mangibile)
+                            {
+                                Fantasma_Rosso.Top -= vel;
+                                redlast = 4;
+                            }
+                            else
+                            {
+                                Fantasma_Rosso.Top += vel;
+                                redlast = 3;
+                            }
                         }
                         else
                         {
-                            Fantasma_Rosso.Top += vel;
-                            redlast = 3;
+                            if (!rosso_mangibile)
+                            {
+                                Fantasma_Rosso.Top += vel;
+                                redlast = 3;
+                            }
+                            else
+                            {
+                                Fantasma_Rosso.Top -= vel;
+                                redlast = 4;
+                            }
                         }
                         break;
                 }
@@ -208,25 +250,57 @@ namespace PACMAN_V2
                     case 1:
                         if (PacMan.Left < Fantasma_Rosa.Left)
                         {
-                            Fantasma_Rosa.Left -= vel;
-                            pinkLast = 2;
+                            if (!rosa_mangibile)
+                            {
+                                Fantasma_Rosa.Left -= vel;
+                                pinkLast = 2;
+                            }
+                            else
+                            {
+                                Fantasma_Rosa.Left += vel;
+                                pinkLast = 1;
+                            }
                         }
                         else
                         {
-                            Fantasma_Rosa.Left += vel;
-                            pinkLast = 1;
+                            if (!rosa_mangibile)
+                            {
+                                Fantasma_Rosa.Left += vel;
+                                pinkLast = 1;
+                            }
+                            else
+                            {
+                                Fantasma_Rosa.Left -= vel;
+                                pinkLast = 2;
+                            }
                         }
                         break;
                     case 2:
                         if (PacMan.Top < Fantasma_Rosa.Top)
                         {
-                            Fantasma_Rosa.Top -= vel;
-                            pinkLast = 4;
+                            if (!rosa_mangibile)
+                            {
+                                Fantasma_Rosa.Top -= vel;
+                                pinkLast = 4;
+                            }
+                            else
+                            {
+                                Fantasma_Rosa.Top += vel;
+                                pinkLast = 3;
+                            }
                         }
                         else
                         {
-                            Fantasma_Rosa.Top += vel;
-                            pinkLast = 3;
+                            if(!rosa_mangibile)
+                            {
+                                Fantasma_Rosa.Top += vel;
+                                pinkLast = 3;
+                            }
+                            else
+                            {
+                                Fantasma_Rosa.Top -= vel;
+                                pinkLast = 4;
+                            }
                         }
                         break;
                 }
@@ -276,6 +350,8 @@ namespace PACMAN_V2
                 }
             }
         }
+        #endregion
+        #region Input
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode != Keys.None)
@@ -303,6 +379,8 @@ namespace PACMAN_V2
                 giu = true;
             }
         }
+        #endregion
+        #region Loop
         private void Form1_gameTimerTick(object sender, EventArgs e)
         {
             if (player != null)
@@ -447,6 +525,12 @@ namespace PACMAN_V2
                                     break;
                             }
                         }
+                        else if((string)item.Tag == "Bonus" && PacMan.Bounds.IntersectsWith(item.Bounds) && item.Visible)
+                        {
+                            bonus_mangiati++;
+                            punti += 200 * bonus_mangiati;
+                            item.Visible = false;
+                        }
                     }
                 }
                 #endregion
@@ -468,6 +552,7 @@ namespace PACMAN_V2
                 #endregion
             }
         }
+        #endregion
         private void Reset()
         {
             if (player == null)
@@ -539,6 +624,7 @@ namespace PACMAN_V2
                             }
                         }
                         player = null;
+                        numeroVite = 3;
                     }
                     Reset();
                 }
