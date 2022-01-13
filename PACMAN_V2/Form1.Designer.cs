@@ -47,17 +47,12 @@
             this.pictureBox12 = new System.Windows.Forms.PictureBox();
             this.pictureBox13 = new System.Windows.Forms.PictureBox();
             this.pictureBox14 = new System.Windows.Forms.PictureBox();
-            this.pictureBox15 = new System.Windows.Forms.PictureBox();
             this.pictureBox16 = new System.Windows.Forms.PictureBox();
-            this.pictureBox17 = new System.Windows.Forms.PictureBox();
             this.pictureBox18 = new System.Windows.Forms.PictureBox();
             this.pictureBox19 = new System.Windows.Forms.PictureBox();
-            this.pictureBox20 = new System.Windows.Forms.PictureBox();
             this.pictureBox21 = new System.Windows.Forms.PictureBox();
-            this.pictureBox22 = new System.Windows.Forms.PictureBox();
             this.pictureBox23 = new System.Windows.Forms.PictureBox();
             this.pictureBox24 = new System.Windows.Forms.PictureBox();
-            this.pictureBox25 = new System.Windows.Forms.PictureBox();
             this.pictureBox26 = new System.Windows.Forms.PictureBox();
             this.pictureBox28 = new System.Windows.Forms.PictureBox();
             this.pictureBox29 = new System.Windows.Forms.PictureBox();
@@ -78,24 +73,11 @@
             this.pictureBox64 = new System.Windows.Forms.PictureBox();
             this.pictureBox65 = new System.Windows.Forms.PictureBox();
             this.pictureBox69 = new System.Windows.Forms.PictureBox();
-            this.pictureBox70 = new System.Windows.Forms.PictureBox();
-            this.pictureBox71 = new System.Windows.Forms.PictureBox();
-            this.pictureBox72 = new System.Windows.Forms.PictureBox();
-            this.pictureBox73 = new System.Windows.Forms.PictureBox();
-            this.pictureBox74 = new System.Windows.Forms.PictureBox();
-            this.pictureBox75 = new System.Windows.Forms.PictureBox();
-            this.pictureBox76 = new System.Windows.Forms.PictureBox();
-            this.pictureBox77 = new System.Windows.Forms.PictureBox();
-            this.pictureBox78 = new System.Windows.Forms.PictureBox();
-            this.pictureBox80 = new System.Windows.Forms.PictureBox();
             this.pictureBox92 = new System.Windows.Forms.PictureBox();
-            this.pictureBox93 = new System.Windows.Forms.PictureBox();
             this.pictureBox94 = new System.Windows.Forms.PictureBox();
             this.pictureBox95 = new System.Windows.Forms.PictureBox();
-            this.pictureBox96 = new System.Windows.Forms.PictureBox();
             this.pictureBox97 = new System.Windows.Forms.PictureBox();
             this.pictureBox98 = new System.Windows.Forms.PictureBox();
-            this.pictureBox99 = new System.Windows.Forms.PictureBox();
             this.pictureBox100 = new System.Windows.Forms.PictureBox();
             this.pictureBox102 = new System.Windows.Forms.PictureBox();
             this.pictureBox103 = new System.Windows.Forms.PictureBox();
@@ -107,12 +89,10 @@
             this.pictureBox111 = new System.Windows.Forms.PictureBox();
             this.pictureBox112 = new System.Windows.Forms.PictureBox();
             this.pictureBox113 = new System.Windows.Forms.PictureBox();
-            this.pictureBox114 = new System.Windows.Forms.PictureBox();
             this.pictureBox115 = new System.Windows.Forms.PictureBox();
             this.pictureBox116 = new System.Windows.Forms.PictureBox();
             this.pictureBox117 = new System.Windows.Forms.PictureBox();
             this.pictureBox118 = new System.Windows.Forms.PictureBox();
-            this.pictureBox119 = new System.Windows.Forms.PictureBox();
             this.pictureBox120 = new System.Windows.Forms.PictureBox();
             this.pictureBox121 = new System.Windows.Forms.PictureBox();
             this.pictureBox122 = new System.Windows.Forms.PictureBox();
@@ -128,19 +108,6 @@
             this.pictureBox144 = new System.Windows.Forms.PictureBox();
             this.pictureBox145 = new System.Windows.Forms.PictureBox();
             this.pictureBox146 = new System.Windows.Forms.PictureBox();
-            this.pictureBox147 = new System.Windows.Forms.PictureBox();
-            this.pictureBox148 = new System.Windows.Forms.PictureBox();
-            this.pictureBox149 = new System.Windows.Forms.PictureBox();
-            this.pictureBox150 = new System.Windows.Forms.PictureBox();
-            this.pictureBox151 = new System.Windows.Forms.PictureBox();
-            this.pictureBox152 = new System.Windows.Forms.PictureBox();
-            this.pictureBox153 = new System.Windows.Forms.PictureBox();
-            this.pictureBox154 = new System.Windows.Forms.PictureBox();
-            this.pictureBox155 = new System.Windows.Forms.PictureBox();
-            this.pictureBox156 = new System.Windows.Forms.PictureBox();
-            this.pictureBox157 = new System.Windows.Forms.PictureBox();
-            this.pictureBox169 = new System.Windows.Forms.PictureBox();
-            this.pictureBox170 = new System.Windows.Forms.PictureBox();
             this.pictureBox171 = new System.Windows.Forms.PictureBox();
             this.pictureBox172 = new System.Windows.Forms.PictureBox();
             this.pictureBox173 = new System.Windows.Forms.PictureBox();
@@ -148,7 +115,6 @@
             this.pictureBox175 = new System.Windows.Forms.PictureBox();
             this.pictureBox176 = new System.Windows.Forms.PictureBox();
             this.pictureBox177 = new System.Windows.Forms.PictureBox();
-            this.pictureBox178 = new System.Windows.Forms.PictureBox();
             this.pictureBox180 = new System.Windows.Forms.PictureBox();
             this.pictureBox181 = new System.Windows.Forms.PictureBox();
             this.pictureBox182 = new System.Windows.Forms.PictureBox();
@@ -161,12 +127,6 @@
             this.pictureBox201 = new System.Windows.Forms.PictureBox();
             this.pictureBox202 = new System.Windows.Forms.PictureBox();
             this.pictureBox203 = new System.Windows.Forms.PictureBox();
-            this.pictureBox204 = new System.Windows.Forms.PictureBox();
-            this.pictureBox205 = new System.Windows.Forms.PictureBox();
-            this.pictureBox206 = new System.Windows.Forms.PictureBox();
-            this.pictureBox210 = new System.Windows.Forms.PictureBox();
-            this.pictureBox211 = new System.Windows.Forms.PictureBox();
-            this.pictureBox212 = new System.Windows.Forms.PictureBox();
             this.pictureBox213 = new System.Windows.Forms.PictureBox();
             this.pictureBox214 = new System.Windows.Forms.PictureBox();
             this.pictureBox215 = new System.Windows.Forms.PictureBox();
@@ -177,10 +137,6 @@
             this.pictureBox223 = new System.Windows.Forms.PictureBox();
             this.pictureBox224 = new System.Windows.Forms.PictureBox();
             this.pictureBox225 = new System.Windows.Forms.PictureBox();
-            this.pictureBox227 = new System.Windows.Forms.PictureBox();
-            this.pictureBox228 = new System.Windows.Forms.PictureBox();
-            this.pictureBox229 = new System.Windows.Forms.PictureBox();
-            this.pictureBox230 = new System.Windows.Forms.PictureBox();
             this.pictureBox231 = new System.Windows.Forms.PictureBox();
             this.pictureBox232 = new System.Windows.Forms.PictureBox();
             this.pictureBox233 = new System.Windows.Forms.PictureBox();
@@ -199,7 +155,6 @@
             this.pictureBox251 = new System.Windows.Forms.PictureBox();
             this.pictureBox252 = new System.Windows.Forms.PictureBox();
             this.pictureBox253 = new System.Windows.Forms.PictureBox();
-            this.pictureBox255 = new System.Windows.Forms.PictureBox();
             this.gameTimer = new System.Windows.Forms.Timer(this.components);
             this.pictureBox67 = new System.Windows.Forms.PictureBox();
             this.pictureBox108 = new System.Windows.Forms.PictureBox();
@@ -210,6 +165,7 @@
             this.pictureBox66 = new System.Windows.Forms.PictureBox();
             this.pictureBox68 = new System.Windows.Forms.PictureBox();
             this.pictureBox79 = new System.Windows.Forms.PictureBox();
+            this.pictureBox25 = new System.Windows.Forms.PictureBox();
             this.pictureBox27 = new System.Windows.Forms.PictureBox();
             this.pictureBox30 = new System.Windows.Forms.PictureBox();
             this.pictureBox33 = new System.Windows.Forms.PictureBox();
@@ -228,6 +184,7 @@
             this.pictureBox49 = new System.Windows.Forms.PictureBox();
             this.pictureBox52 = new System.Windows.Forms.PictureBox();
             this.pictureBox55 = new System.Windows.Forms.PictureBox();
+            this.pictureBox81 = new System.Windows.Forms.PictureBox();
             this.Login = new System.Windows.Forms.Panel();
             this.SceltaDifficoltà = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
@@ -250,17 +207,12 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).BeginInit();
@@ -281,24 +233,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox64)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox65)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox69)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox70)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox71)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox72)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox73)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox74)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox75)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox76)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox77)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox78)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox80)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox92)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox93)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox94)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox95)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox96)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox97)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox98)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox99)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox100)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox102)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).BeginInit();
@@ -310,12 +249,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox111)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox112)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox113)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox114)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox115)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox116)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox117)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox118)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox119)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox120)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox121)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox122)).BeginInit();
@@ -331,19 +268,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox144)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox145)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox146)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox147)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox148)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox149)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox150)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox151)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox152)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox153)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox154)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox155)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox156)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox157)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox169)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox170)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox171)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox172)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox173)).BeginInit();
@@ -351,7 +275,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox175)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox176)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox177)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox178)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox180)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox181)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox182)).BeginInit();
@@ -364,12 +287,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox201)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox202)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox203)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox204)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox205)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox206)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox210)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox211)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox212)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox213)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox214)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox215)).BeginInit();
@@ -380,10 +297,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox223)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox224)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox225)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox227)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox228)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox229)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox230)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox231)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox232)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox233)).BeginInit();
@@ -402,7 +315,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox251)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox252)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox253)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox255)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox67)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox108)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.PacMan)).BeginInit();
@@ -412,6 +324,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox66)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox68)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox79)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox33)).BeginInit();
@@ -430,6 +343,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox49)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox52)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox55)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).BeginInit();
             this.Login.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ImmagineAvvio)).BeginInit();
             this.SuspendLayout();
@@ -492,7 +406,7 @@
             this.pictureBox3.BackColor = System.Drawing.SystemColors.Info;
             this.pictureBox3.Location = new System.Drawing.Point(709, 437);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(338, 37);
+            this.pictureBox3.Size = new System.Drawing.Size(323, 37);
             this.pictureBox3.TabIndex = 6;
             this.pictureBox3.TabStop = false;
             this.pictureBox3.Tag = "Muro";
@@ -502,7 +416,7 @@
             this.pictureBox4.BackColor = System.Drawing.SystemColors.Info;
             this.pictureBox4.Location = new System.Drawing.Point(1004, 450);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(43, 191);
+            this.pictureBox4.Size = new System.Drawing.Size(28, 191);
             this.pictureBox4.TabIndex = 7;
             this.pictureBox4.TabStop = false;
             this.pictureBox4.Tag = "Muro";
@@ -512,7 +426,7 @@
             this.pictureBox5.BackColor = System.Drawing.SystemColors.Info;
             this.pictureBox5.Location = new System.Drawing.Point(709, 621);
             this.pictureBox5.Name = "pictureBox5";
-            this.pictureBox5.Size = new System.Drawing.Size(338, 37);
+            this.pictureBox5.Size = new System.Drawing.Size(323, 37);
             this.pictureBox5.TabIndex = 8;
             this.pictureBox5.TabStop = false;
             this.pictureBox5.Tag = "Muro";
@@ -530,9 +444,9 @@
             // pictureBox7
             // 
             this.pictureBox7.BackColor = System.Drawing.SystemColors.Info;
-            this.pictureBox7.Location = new System.Drawing.Point(709, 139);
+            this.pictureBox7.Location = new System.Drawing.Point(700, 139);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(346, 142);
+            this.pictureBox7.Size = new System.Drawing.Size(310, 142);
             this.pictureBox7.TabIndex = 10;
             this.pictureBox7.TabStop = false;
             this.pictureBox7.Tag = "Muro";
@@ -550,9 +464,9 @@
             // pictureBox9
             // 
             this.pictureBox9.BackColor = System.Drawing.SystemColors.Info;
-            this.pictureBox9.Location = new System.Drawing.Point(576, 43);
+            this.pictureBox9.Location = new System.Drawing.Point(531, 43);
             this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(31, 238);
+            this.pictureBox9.Size = new System.Drawing.Size(76, 238);
             this.pictureBox9.TabIndex = 12;
             this.pictureBox9.TabStop = false;
             this.pictureBox9.Tag = "Muro";
@@ -600,23 +514,12 @@
             // pictureBox14
             // 
             this.pictureBox14.BackColor = System.Drawing.SystemColors.Info;
-            this.pictureBox14.Location = new System.Drawing.Point(258, 139);
+            this.pictureBox14.Location = new System.Drawing.Point(264, 129);
             this.pictureBox14.Name = "pictureBox14";
-            this.pictureBox14.Size = new System.Drawing.Size(80, 142);
+            this.pictureBox14.Size = new System.Drawing.Size(114, 142);
             this.pictureBox14.TabIndex = 17;
             this.pictureBox14.TabStop = false;
             this.pictureBox14.Tag = "Muro";
-            // 
-            // pictureBox15
-            // 
-            this.pictureBox15.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox15.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox15.Location = new System.Drawing.Point(99, 86);
-            this.pictureBox15.Name = "pictureBox15";
-            this.pictureBox15.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox15.TabIndex = 18;
-            this.pictureBox15.TabStop = false;
-            this.pictureBox15.Tag = "Coin";
             // 
             // pictureBox16
             // 
@@ -629,22 +532,11 @@
             this.pictureBox16.TabStop = false;
             this.pictureBox16.Tag = "Coin";
             // 
-            // pictureBox17
-            // 
-            this.pictureBox17.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox17.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox17.Location = new System.Drawing.Point(187, 86);
-            this.pictureBox17.Name = "pictureBox17";
-            this.pictureBox17.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox17.TabIndex = 20;
-            this.pictureBox17.TabStop = false;
-            this.pictureBox17.Tag = "Coin";
-            // 
             // pictureBox18
             // 
             this.pictureBox18.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox18.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox18.Location = new System.Drawing.Point(228, 86);
+            this.pictureBox18.Location = new System.Drawing.Point(213, 86);
             this.pictureBox18.Name = "pictureBox18";
             this.pictureBox18.Size = new System.Drawing.Size(20, 20);
             this.pictureBox18.TabIndex = 21;
@@ -655,51 +547,29 @@
             // 
             this.pictureBox19.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox19.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox19.Location = new System.Drawing.Point(275, 86);
+            this.pictureBox19.Location = new System.Drawing.Point(274, 86);
             this.pictureBox19.Name = "pictureBox19";
             this.pictureBox19.Size = new System.Drawing.Size(20, 20);
             this.pictureBox19.TabIndex = 22;
             this.pictureBox19.TabStop = false;
             this.pictureBox19.Tag = "Coin";
             // 
-            // pictureBox20
-            // 
-            this.pictureBox20.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox20.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox20.Location = new System.Drawing.Point(318, 86);
-            this.pictureBox20.Name = "pictureBox20";
-            this.pictureBox20.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox20.TabIndex = 23;
-            this.pictureBox20.TabStop = false;
-            this.pictureBox20.Tag = "Coin";
-            // 
             // pictureBox21
             // 
             this.pictureBox21.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox21.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox21.Location = new System.Drawing.Point(364, 86);
+            this.pictureBox21.Location = new System.Drawing.Point(349, 86);
             this.pictureBox21.Name = "pictureBox21";
             this.pictureBox21.Size = new System.Drawing.Size(20, 20);
             this.pictureBox21.TabIndex = 24;
             this.pictureBox21.TabStop = false;
             this.pictureBox21.Tag = "Coin";
             // 
-            // pictureBox22
-            // 
-            this.pictureBox22.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox22.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox22.Location = new System.Drawing.Point(412, 86);
-            this.pictureBox22.Name = "pictureBox22";
-            this.pictureBox22.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox22.TabIndex = 25;
-            this.pictureBox22.TabStop = false;
-            this.pictureBox22.Tag = "Coin";
-            // 
             // pictureBox23
             // 
             this.pictureBox23.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox23.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox23.Location = new System.Drawing.Point(455, 86);
+            this.pictureBox23.Location = new System.Drawing.Point(414, 86);
             this.pictureBox23.Name = "pictureBox23";
             this.pictureBox23.Size = new System.Drawing.Size(20, 20);
             this.pictureBox23.TabIndex = 26;
@@ -710,23 +580,12 @@
             // 
             this.pictureBox24.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox24.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox24.Location = new System.Drawing.Point(495, 86);
+            this.pictureBox24.Location = new System.Drawing.Point(473, 86);
             this.pictureBox24.Name = "pictureBox24";
             this.pictureBox24.Size = new System.Drawing.Size(20, 20);
             this.pictureBox24.TabIndex = 27;
             this.pictureBox24.TabStop = false;
             this.pictureBox24.Tag = "Coin";
-            // 
-            // pictureBox25
-            // 
-            this.pictureBox25.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox25.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox25.Location = new System.Drawing.Point(539, 86);
-            this.pictureBox25.Name = "pictureBox25";
-            this.pictureBox25.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox25.TabIndex = 28;
-            this.pictureBox25.TabStop = false;
-            this.pictureBox25.Tag = "Coin";
             // 
             // pictureBox26
             // 
@@ -809,7 +668,7 @@
             // 
             this.pictureBox48.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox48.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox48.Location = new System.Drawing.Point(472, 353);
+            this.pictureBox48.Location = new System.Drawing.Point(472, 377);
             this.pictureBox48.Name = "pictureBox48";
             this.pictureBox48.Size = new System.Drawing.Size(20, 20);
             this.pictureBox48.TabIndex = 61;
@@ -820,7 +679,7 @@
             // 
             this.pictureBox50.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox50.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox50.Location = new System.Drawing.Point(414, 351);
+            this.pictureBox50.Location = new System.Drawing.Point(414, 375);
             this.pictureBox50.Name = "pictureBox50";
             this.pictureBox50.Size = new System.Drawing.Size(20, 20);
             this.pictureBox50.TabIndex = 59;
@@ -831,7 +690,7 @@
             // 
             this.pictureBox51.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox51.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox51.Location = new System.Drawing.Point(349, 351);
+            this.pictureBox51.Location = new System.Drawing.Point(349, 375);
             this.pictureBox51.Name = "pictureBox51";
             this.pictureBox51.Size = new System.Drawing.Size(20, 20);
             this.pictureBox51.TabIndex = 58;
@@ -842,7 +701,7 @@
             // 
             this.pictureBox53.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox53.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox53.Location = new System.Drawing.Point(277, 351);
+            this.pictureBox53.Location = new System.Drawing.Point(277, 375);
             this.pictureBox53.Name = "pictureBox53";
             this.pictureBox53.Size = new System.Drawing.Size(20, 20);
             this.pictureBox53.TabIndex = 56;
@@ -853,7 +712,7 @@
             // 
             this.pictureBox54.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox54.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox54.Location = new System.Drawing.Point(210, 351);
+            this.pictureBox54.Location = new System.Drawing.Point(210, 375);
             this.pictureBox54.Name = "pictureBox54";
             this.pictureBox54.Size = new System.Drawing.Size(20, 20);
             this.pictureBox54.TabIndex = 55;
@@ -864,7 +723,7 @@
             // 
             this.pictureBox56.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox56.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox56.Location = new System.Drawing.Point(146, 351);
+            this.pictureBox56.Location = new System.Drawing.Point(146, 375);
             this.pictureBox56.Name = "pictureBox56";
             this.pictureBox56.Size = new System.Drawing.Size(20, 20);
             this.pictureBox56.TabIndex = 53;
@@ -875,7 +734,7 @@
             // 
             this.pictureBox58.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox58.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox58.Location = new System.Drawing.Point(83, 353);
+            this.pictureBox58.Location = new System.Drawing.Point(83, 377);
             this.pictureBox58.Name = "pictureBox58";
             this.pictureBox58.Size = new System.Drawing.Size(20, 20);
             this.pictureBox58.TabIndex = 51;
@@ -948,143 +807,22 @@
             this.pictureBox69.TabStop = false;
             this.pictureBox69.Tag = "Coin";
             // 
-            // pictureBox70
-            // 
-            this.pictureBox70.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox70.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox70.Location = new System.Drawing.Point(492, 694);
-            this.pictureBox70.Name = "pictureBox70";
-            this.pictureBox70.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox70.TabIndex = 83;
-            this.pictureBox70.TabStop = false;
-            this.pictureBox70.Tag = "Coin";
-            // 
-            // pictureBox71
-            // 
-            this.pictureBox71.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox71.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox71.Location = new System.Drawing.Point(448, 694);
-            this.pictureBox71.Name = "pictureBox71";
-            this.pictureBox71.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox71.TabIndex = 82;
-            this.pictureBox71.TabStop = false;
-            this.pictureBox71.Tag = "Coin";
-            // 
-            // pictureBox72
-            // 
-            this.pictureBox72.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox72.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox72.Location = new System.Drawing.Point(408, 694);
-            this.pictureBox72.Name = "pictureBox72";
-            this.pictureBox72.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox72.TabIndex = 81;
-            this.pictureBox72.TabStop = false;
-            this.pictureBox72.Tag = "Coin";
-            // 
-            // pictureBox73
-            // 
-            this.pictureBox73.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox73.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox73.Location = new System.Drawing.Point(365, 694);
-            this.pictureBox73.Name = "pictureBox73";
-            this.pictureBox73.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox73.TabIndex = 80;
-            this.pictureBox73.TabStop = false;
-            this.pictureBox73.Tag = "Coin";
-            // 
-            // pictureBox74
-            // 
-            this.pictureBox74.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox74.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox74.Location = new System.Drawing.Point(317, 694);
-            this.pictureBox74.Name = "pictureBox74";
-            this.pictureBox74.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox74.TabIndex = 79;
-            this.pictureBox74.TabStop = false;
-            this.pictureBox74.Tag = "Coin";
-            // 
-            // pictureBox75
-            // 
-            this.pictureBox75.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox75.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox75.Location = new System.Drawing.Point(271, 694);
-            this.pictureBox75.Name = "pictureBox75";
-            this.pictureBox75.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox75.TabIndex = 78;
-            this.pictureBox75.TabStop = false;
-            this.pictureBox75.Tag = "Coin";
-            // 
-            // pictureBox76
-            // 
-            this.pictureBox76.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox76.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox76.Location = new System.Drawing.Point(228, 694);
-            this.pictureBox76.Name = "pictureBox76";
-            this.pictureBox76.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox76.TabIndex = 77;
-            this.pictureBox76.TabStop = false;
-            this.pictureBox76.Tag = "Coin";
-            // 
-            // pictureBox77
-            // 
-            this.pictureBox77.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox77.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox77.Location = new System.Drawing.Point(181, 694);
-            this.pictureBox77.Name = "pictureBox77";
-            this.pictureBox77.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox77.TabIndex = 76;
-            this.pictureBox77.TabStop = false;
-            this.pictureBox77.Tag = "Coin";
-            // 
-            // pictureBox78
-            // 
-            this.pictureBox78.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox78.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox78.Location = new System.Drawing.Point(140, 694);
-            this.pictureBox78.Name = "pictureBox78";
-            this.pictureBox78.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox78.TabIndex = 75;
-            this.pictureBox78.TabStop = false;
-            this.pictureBox78.Tag = "Coin";
-            // 
-            // pictureBox80
-            // 
-            this.pictureBox80.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox80.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox80.Location = new System.Drawing.Point(77, 696);
-            this.pictureBox80.Name = "pictureBox80";
-            this.pictureBox80.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox80.TabIndex = 73;
-            this.pictureBox80.TabStop = false;
-            this.pictureBox80.Tag = "Coin";
-            // 
             // pictureBox92
             // 
             this.pictureBox92.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox92.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox92.Location = new System.Drawing.Point(492, 759);
+            this.pictureBox92.Location = new System.Drawing.Point(469, 762);
             this.pictureBox92.Name = "pictureBox92";
             this.pictureBox92.Size = new System.Drawing.Size(20, 20);
             this.pictureBox92.TabIndex = 105;
             this.pictureBox92.TabStop = false;
             this.pictureBox92.Tag = "Coin";
             // 
-            // pictureBox93
-            // 
-            this.pictureBox93.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox93.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox93.Location = new System.Drawing.Point(448, 759);
-            this.pictureBox93.Name = "pictureBox93";
-            this.pictureBox93.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox93.TabIndex = 104;
-            this.pictureBox93.TabStop = false;
-            this.pictureBox93.Tag = "Coin";
-            // 
             // pictureBox94
             // 
             this.pictureBox94.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox94.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox94.Location = new System.Drawing.Point(408, 759);
+            this.pictureBox94.Location = new System.Drawing.Point(414, 762);
             this.pictureBox94.Name = "pictureBox94";
             this.pictureBox94.Size = new System.Drawing.Size(20, 20);
             this.pictureBox94.TabIndex = 103;
@@ -1095,29 +833,18 @@
             // 
             this.pictureBox95.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox95.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox95.Location = new System.Drawing.Point(365, 759);
+            this.pictureBox95.Location = new System.Drawing.Point(346, 762);
             this.pictureBox95.Name = "pictureBox95";
             this.pictureBox95.Size = new System.Drawing.Size(20, 20);
             this.pictureBox95.TabIndex = 102;
             this.pictureBox95.TabStop = false;
             this.pictureBox95.Tag = "Coin";
             // 
-            // pictureBox96
-            // 
-            this.pictureBox96.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox96.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox96.Location = new System.Drawing.Point(317, 759);
-            this.pictureBox96.Name = "pictureBox96";
-            this.pictureBox96.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox96.TabIndex = 101;
-            this.pictureBox96.TabStop = false;
-            this.pictureBox96.Tag = "Coin";
-            // 
             // pictureBox97
             // 
             this.pictureBox97.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox97.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox97.Location = new System.Drawing.Point(271, 759);
+            this.pictureBox97.Location = new System.Drawing.Point(274, 762);
             this.pictureBox97.Name = "pictureBox97";
             this.pictureBox97.Size = new System.Drawing.Size(20, 20);
             this.pictureBox97.TabIndex = 100;
@@ -1128,29 +855,18 @@
             // 
             this.pictureBox98.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox98.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox98.Location = new System.Drawing.Point(228, 759);
+            this.pictureBox98.Location = new System.Drawing.Point(207, 762);
             this.pictureBox98.Name = "pictureBox98";
             this.pictureBox98.Size = new System.Drawing.Size(20, 20);
             this.pictureBox98.TabIndex = 99;
             this.pictureBox98.TabStop = false;
             this.pictureBox98.Tag = "Coin";
             // 
-            // pictureBox99
-            // 
-            this.pictureBox99.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox99.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox99.Location = new System.Drawing.Point(181, 759);
-            this.pictureBox99.Name = "pictureBox99";
-            this.pictureBox99.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox99.TabIndex = 98;
-            this.pictureBox99.TabStop = false;
-            this.pictureBox99.Tag = "Coin";
-            // 
             // pictureBox100
             // 
             this.pictureBox100.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox100.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox100.Location = new System.Drawing.Point(140, 759);
+            this.pictureBox100.Location = new System.Drawing.Point(146, 762);
             this.pictureBox100.Name = "pictureBox100";
             this.pictureBox100.Size = new System.Drawing.Size(20, 20);
             this.pictureBox100.TabIndex = 97;
@@ -1161,7 +877,7 @@
             // 
             this.pictureBox102.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox102.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox102.Location = new System.Drawing.Point(77, 761);
+            this.pictureBox102.Location = new System.Drawing.Point(83, 764);
             this.pictureBox102.Name = "pictureBox102";
             this.pictureBox102.Size = new System.Drawing.Size(20, 20);
             this.pictureBox102.TabIndex = 95;
@@ -1267,22 +983,11 @@
             this.pictureBox113.TabStop = false;
             this.pictureBox113.Tag = "Coin";
             // 
-            // pictureBox114
-            // 
-            this.pictureBox114.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox114.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox114.Location = new System.Drawing.Point(1077, 86);
-            this.pictureBox114.Name = "pictureBox114";
-            this.pictureBox114.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox114.TabIndex = 127;
-            this.pictureBox114.TabStop = false;
-            this.pictureBox114.Tag = "Coin";
-            // 
             // pictureBox115
             // 
             this.pictureBox115.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox115.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox115.Location = new System.Drawing.Point(1033, 86);
+            this.pictureBox115.Location = new System.Drawing.Point(1068, 86);
             this.pictureBox115.Name = "pictureBox115";
             this.pictureBox115.Size = new System.Drawing.Size(20, 20);
             this.pictureBox115.TabIndex = 126;
@@ -1293,7 +998,7 @@
             // 
             this.pictureBox116.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox116.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox116.Location = new System.Drawing.Point(993, 86);
+            this.pictureBox116.Location = new System.Drawing.Point(1004, 86);
             this.pictureBox116.Name = "pictureBox116";
             this.pictureBox116.Size = new System.Drawing.Size(20, 20);
             this.pictureBox116.TabIndex = 125;
@@ -1304,7 +1009,7 @@
             // 
             this.pictureBox117.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox117.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox117.Location = new System.Drawing.Point(950, 86);
+            this.pictureBox117.Location = new System.Drawing.Point(952, 86);
             this.pictureBox117.Name = "pictureBox117";
             this.pictureBox117.Size = new System.Drawing.Size(20, 20);
             this.pictureBox117.TabIndex = 124;
@@ -1315,29 +1020,18 @@
             // 
             this.pictureBox118.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox118.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox118.Location = new System.Drawing.Point(902, 86);
+            this.pictureBox118.Location = new System.Drawing.Point(900, 86);
             this.pictureBox118.Name = "pictureBox118";
             this.pictureBox118.Size = new System.Drawing.Size(20, 20);
             this.pictureBox118.TabIndex = 123;
             this.pictureBox118.TabStop = false;
             this.pictureBox118.Tag = "Coin";
             // 
-            // pictureBox119
-            // 
-            this.pictureBox119.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox119.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox119.Location = new System.Drawing.Point(856, 86);
-            this.pictureBox119.Name = "pictureBox119";
-            this.pictureBox119.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox119.TabIndex = 122;
-            this.pictureBox119.TabStop = false;
-            this.pictureBox119.Tag = "Coin";
-            // 
             // pictureBox120
             // 
             this.pictureBox120.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox120.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox120.Location = new System.Drawing.Point(813, 86);
+            this.pictureBox120.Location = new System.Drawing.Point(850, 86);
             this.pictureBox120.Name = "pictureBox120";
             this.pictureBox120.Size = new System.Drawing.Size(20, 20);
             this.pictureBox120.TabIndex = 121;
@@ -1348,7 +1042,7 @@
             // 
             this.pictureBox121.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox121.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox121.Location = new System.Drawing.Point(766, 86);
+            this.pictureBox121.Location = new System.Drawing.Point(790, 86);
             this.pictureBox121.Name = "pictureBox121";
             this.pictureBox121.Size = new System.Drawing.Size(20, 20);
             this.pictureBox121.TabIndex = 120;
@@ -1359,7 +1053,7 @@
             // 
             this.pictureBox122.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox122.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox122.Location = new System.Drawing.Point(725, 86);
+            this.pictureBox122.Location = new System.Drawing.Point(736, 86);
             this.pictureBox122.Name = "pictureBox122";
             this.pictureBox122.Size = new System.Drawing.Size(20, 20);
             this.pictureBox122.TabIndex = 119;
@@ -1392,7 +1086,7 @@
             // 
             this.pictureBox136.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox136.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox136.Location = new System.Drawing.Point(1071, 351);
+            this.pictureBox136.Location = new System.Drawing.Point(1071, 375);
             this.pictureBox136.Name = "pictureBox136";
             this.pictureBox136.Size = new System.Drawing.Size(20, 20);
             this.pictureBox136.TabIndex = 149;
@@ -1403,7 +1097,7 @@
             // 
             this.pictureBox137.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox137.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox137.Location = new System.Drawing.Point(1004, 351);
+            this.pictureBox137.Location = new System.Drawing.Point(1004, 375);
             this.pictureBox137.Name = "pictureBox137";
             this.pictureBox137.Size = new System.Drawing.Size(20, 20);
             this.pictureBox137.TabIndex = 148;
@@ -1414,7 +1108,7 @@
             // 
             this.pictureBox138.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox138.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox138.Location = new System.Drawing.Point(950, 351);
+            this.pictureBox138.Location = new System.Drawing.Point(950, 375);
             this.pictureBox138.Name = "pictureBox138";
             this.pictureBox138.Size = new System.Drawing.Size(20, 20);
             this.pictureBox138.TabIndex = 147;
@@ -1425,7 +1119,7 @@
             // 
             this.pictureBox140.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox140.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox140.Location = new System.Drawing.Point(900, 351);
+            this.pictureBox140.Location = new System.Drawing.Point(900, 375);
             this.pictureBox140.Name = "pictureBox140";
             this.pictureBox140.Size = new System.Drawing.Size(20, 20);
             this.pictureBox140.TabIndex = 145;
@@ -1436,7 +1130,7 @@
             // 
             this.pictureBox141.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox141.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox141.Location = new System.Drawing.Point(850, 351);
+            this.pictureBox141.Location = new System.Drawing.Point(850, 375);
             this.pictureBox141.Name = "pictureBox141";
             this.pictureBox141.Size = new System.Drawing.Size(20, 20);
             this.pictureBox141.TabIndex = 144;
@@ -1447,7 +1141,7 @@
             // 
             this.pictureBox142.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox142.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox142.Location = new System.Drawing.Point(793, 351);
+            this.pictureBox142.Location = new System.Drawing.Point(793, 375);
             this.pictureBox142.Name = "pictureBox142";
             this.pictureBox142.Size = new System.Drawing.Size(20, 20);
             this.pictureBox142.TabIndex = 143;
@@ -1458,7 +1152,7 @@
             // 
             this.pictureBox143.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox143.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox143.Location = new System.Drawing.Point(736, 351);
+            this.pictureBox143.Location = new System.Drawing.Point(736, 375);
             this.pictureBox143.Name = "pictureBox143";
             this.pictureBox143.Size = new System.Drawing.Size(20, 20);
             this.pictureBox143.TabIndex = 142;
@@ -1469,7 +1163,7 @@
             // 
             this.pictureBox144.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox144.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox144.Location = new System.Drawing.Point(682, 355);
+            this.pictureBox144.Location = new System.Drawing.Point(682, 379);
             this.pictureBox144.Name = "pictureBox144";
             this.pictureBox144.Size = new System.Drawing.Size(20, 20);
             this.pictureBox144.TabIndex = 141;
@@ -1480,7 +1174,7 @@
             // 
             this.pictureBox145.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox145.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox145.Location = new System.Drawing.Point(637, 355);
+            this.pictureBox145.Location = new System.Drawing.Point(637, 379);
             this.pictureBox145.Name = "pictureBox145";
             this.pictureBox145.Size = new System.Drawing.Size(20, 20);
             this.pictureBox145.TabIndex = 140;
@@ -1491,161 +1185,18 @@
             // 
             this.pictureBox146.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox146.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox146.Location = new System.Drawing.Point(584, 351);
+            this.pictureBox146.Location = new System.Drawing.Point(584, 375);
             this.pictureBox146.Name = "pictureBox146";
             this.pictureBox146.Size = new System.Drawing.Size(20, 20);
             this.pictureBox146.TabIndex = 139;
             this.pictureBox146.TabStop = false;
             this.pictureBox146.Tag = "Coin";
             // 
-            // pictureBox147
-            // 
-            this.pictureBox147.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox147.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox147.Location = new System.Drawing.Point(1071, 694);
-            this.pictureBox147.Name = "pictureBox147";
-            this.pictureBox147.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox147.TabIndex = 160;
-            this.pictureBox147.TabStop = false;
-            this.pictureBox147.Tag = "Coin";
-            // 
-            // pictureBox148
-            // 
-            this.pictureBox148.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox148.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox148.Location = new System.Drawing.Point(1027, 694);
-            this.pictureBox148.Name = "pictureBox148";
-            this.pictureBox148.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox148.TabIndex = 159;
-            this.pictureBox148.TabStop = false;
-            this.pictureBox148.Tag = "Coin";
-            // 
-            // pictureBox149
-            // 
-            this.pictureBox149.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox149.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox149.Location = new System.Drawing.Point(987, 694);
-            this.pictureBox149.Name = "pictureBox149";
-            this.pictureBox149.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox149.TabIndex = 158;
-            this.pictureBox149.TabStop = false;
-            this.pictureBox149.Tag = "Coin";
-            // 
-            // pictureBox150
-            // 
-            this.pictureBox150.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox150.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox150.Location = new System.Drawing.Point(944, 694);
-            this.pictureBox150.Name = "pictureBox150";
-            this.pictureBox150.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox150.TabIndex = 157;
-            this.pictureBox150.TabStop = false;
-            this.pictureBox150.Tag = "Coin";
-            // 
-            // pictureBox151
-            // 
-            this.pictureBox151.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox151.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox151.Location = new System.Drawing.Point(896, 694);
-            this.pictureBox151.Name = "pictureBox151";
-            this.pictureBox151.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox151.TabIndex = 156;
-            this.pictureBox151.TabStop = false;
-            this.pictureBox151.Tag = "Coin";
-            // 
-            // pictureBox152
-            // 
-            this.pictureBox152.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox152.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox152.Location = new System.Drawing.Point(850, 694);
-            this.pictureBox152.Name = "pictureBox152";
-            this.pictureBox152.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox152.TabIndex = 155;
-            this.pictureBox152.TabStop = false;
-            this.pictureBox152.Tag = "Coin";
-            // 
-            // pictureBox153
-            // 
-            this.pictureBox153.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox153.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox153.Location = new System.Drawing.Point(807, 694);
-            this.pictureBox153.Name = "pictureBox153";
-            this.pictureBox153.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox153.TabIndex = 154;
-            this.pictureBox153.TabStop = false;
-            this.pictureBox153.Tag = "Coin";
-            // 
-            // pictureBox154
-            // 
-            this.pictureBox154.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox154.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox154.Location = new System.Drawing.Point(760, 694);
-            this.pictureBox154.Name = "pictureBox154";
-            this.pictureBox154.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox154.TabIndex = 153;
-            this.pictureBox154.TabStop = false;
-            this.pictureBox154.Tag = "Coin";
-            // 
-            // pictureBox155
-            // 
-            this.pictureBox155.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox155.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox155.Location = new System.Drawing.Point(719, 694);
-            this.pictureBox155.Name = "pictureBox155";
-            this.pictureBox155.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox155.TabIndex = 152;
-            this.pictureBox155.TabStop = false;
-            this.pictureBox155.Tag = "Coin";
-            // 
-            // pictureBox156
-            // 
-            this.pictureBox156.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox156.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox156.Location = new System.Drawing.Point(676, 694);
-            this.pictureBox156.Name = "pictureBox156";
-            this.pictureBox156.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox156.TabIndex = 151;
-            this.pictureBox156.TabStop = false;
-            this.pictureBox156.Tag = "Coin";
-            // 
-            // pictureBox157
-            // 
-            this.pictureBox157.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox157.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox157.Location = new System.Drawing.Point(631, 694);
-            this.pictureBox157.Name = "pictureBox157";
-            this.pictureBox157.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox157.TabIndex = 150;
-            this.pictureBox157.TabStop = false;
-            this.pictureBox157.Tag = "Coin";
-            // 
-            // pictureBox169
-            // 
-            this.pictureBox169.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox169.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox169.Location = new System.Drawing.Point(1073, 759);
-            this.pictureBox169.Name = "pictureBox169";
-            this.pictureBox169.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox169.TabIndex = 182;
-            this.pictureBox169.TabStop = false;
-            this.pictureBox169.Tag = "Coin";
-            // 
-            // pictureBox170
-            // 
-            this.pictureBox170.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox170.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox170.Location = new System.Drawing.Point(1029, 759);
-            this.pictureBox170.Name = "pictureBox170";
-            this.pictureBox170.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox170.TabIndex = 181;
-            this.pictureBox170.TabStop = false;
-            this.pictureBox170.Tag = "Coin";
-            // 
             // pictureBox171
             // 
             this.pictureBox171.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox171.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox171.Location = new System.Drawing.Point(989, 759);
+            this.pictureBox171.Location = new System.Drawing.Point(1004, 762);
             this.pictureBox171.Name = "pictureBox171";
             this.pictureBox171.Size = new System.Drawing.Size(20, 20);
             this.pictureBox171.TabIndex = 180;
@@ -1656,7 +1207,7 @@
             // 
             this.pictureBox172.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox172.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox172.Location = new System.Drawing.Point(946, 759);
+            this.pictureBox172.Location = new System.Drawing.Point(952, 762);
             this.pictureBox172.Name = "pictureBox172";
             this.pictureBox172.Size = new System.Drawing.Size(20, 20);
             this.pictureBox172.TabIndex = 179;
@@ -1667,7 +1218,7 @@
             // 
             this.pictureBox173.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox173.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox173.Location = new System.Drawing.Point(898, 759);
+            this.pictureBox173.Location = new System.Drawing.Point(897, 762);
             this.pictureBox173.Name = "pictureBox173";
             this.pictureBox173.Size = new System.Drawing.Size(20, 20);
             this.pictureBox173.TabIndex = 178;
@@ -1678,7 +1229,7 @@
             // 
             this.pictureBox174.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox174.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox174.Location = new System.Drawing.Point(852, 759);
+            this.pictureBox174.Location = new System.Drawing.Point(847, 762);
             this.pictureBox174.Name = "pictureBox174";
             this.pictureBox174.Size = new System.Drawing.Size(20, 20);
             this.pictureBox174.TabIndex = 177;
@@ -1689,7 +1240,7 @@
             // 
             this.pictureBox175.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox175.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox175.Location = new System.Drawing.Point(809, 759);
+            this.pictureBox175.Location = new System.Drawing.Point(790, 762);
             this.pictureBox175.Name = "pictureBox175";
             this.pictureBox175.Size = new System.Drawing.Size(20, 20);
             this.pictureBox175.TabIndex = 176;
@@ -1700,7 +1251,7 @@
             // 
             this.pictureBox176.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox176.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox176.Location = new System.Drawing.Point(762, 759);
+            this.pictureBox176.Location = new System.Drawing.Point(733, 762);
             this.pictureBox176.Name = "pictureBox176";
             this.pictureBox176.Size = new System.Drawing.Size(20, 20);
             this.pictureBox176.TabIndex = 175;
@@ -1711,23 +1262,12 @@
             // 
             this.pictureBox177.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox177.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox177.Location = new System.Drawing.Point(721, 759);
+            this.pictureBox177.Location = new System.Drawing.Point(682, 762);
             this.pictureBox177.Name = "pictureBox177";
             this.pictureBox177.Size = new System.Drawing.Size(20, 20);
             this.pictureBox177.TabIndex = 174;
             this.pictureBox177.TabStop = false;
             this.pictureBox177.Tag = "Coin";
-            // 
-            // pictureBox178
-            // 
-            this.pictureBox178.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox178.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox178.Location = new System.Drawing.Point(678, 759);
-            this.pictureBox178.Name = "pictureBox178";
-            this.pictureBox178.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox178.TabIndex = 173;
-            this.pictureBox178.TabStop = false;
-            this.pictureBox178.Tag = "Coin";
             // 
             // pictureBox180
             // 
@@ -1861,77 +1401,11 @@
             this.pictureBox203.TabStop = false;
             this.pictureBox203.Tag = "Coin";
             // 
-            // pictureBox204
-            // 
-            this.pictureBox204.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox204.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox204.Location = new System.Drawing.Point(371, 237);
-            this.pictureBox204.Name = "pictureBox204";
-            this.pictureBox204.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox204.TabIndex = 209;
-            this.pictureBox204.TabStop = false;
-            this.pictureBox204.Tag = "Coin";
-            // 
-            // pictureBox205
-            // 
-            this.pictureBox205.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox205.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox205.Location = new System.Drawing.Point(371, 188);
-            this.pictureBox205.Name = "pictureBox205";
-            this.pictureBox205.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox205.TabIndex = 208;
-            this.pictureBox205.TabStop = false;
-            this.pictureBox205.Tag = "Coin";
-            // 
-            // pictureBox206
-            // 
-            this.pictureBox206.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox206.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox206.Location = new System.Drawing.Point(371, 139);
-            this.pictureBox206.Name = "pictureBox206";
-            this.pictureBox206.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox206.TabIndex = 207;
-            this.pictureBox206.TabStop = false;
-            this.pictureBox206.Tag = "Coin";
-            // 
-            // pictureBox210
-            // 
-            this.pictureBox210.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox210.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox210.Location = new System.Drawing.Point(414, 239);
-            this.pictureBox210.Name = "pictureBox210";
-            this.pictureBox210.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox210.TabIndex = 215;
-            this.pictureBox210.TabStop = false;
-            this.pictureBox210.Tag = "Coin";
-            // 
-            // pictureBox211
-            // 
-            this.pictureBox211.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox211.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox211.Location = new System.Drawing.Point(414, 190);
-            this.pictureBox211.Name = "pictureBox211";
-            this.pictureBox211.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox211.TabIndex = 214;
-            this.pictureBox211.TabStop = false;
-            this.pictureBox211.Tag = "Coin";
-            // 
-            // pictureBox212
-            // 
-            this.pictureBox212.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox212.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox212.Location = new System.Drawing.Point(414, 141);
-            this.pictureBox212.Name = "pictureBox212";
-            this.pictureBox212.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox212.TabIndex = 213;
-            this.pictureBox212.TabStop = false;
-            this.pictureBox212.Tag = "Coin";
-            // 
             // pictureBox213
             // 
             this.pictureBox213.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox213.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox213.Location = new System.Drawing.Point(470, 237);
+            this.pictureBox213.Location = new System.Drawing.Point(414, 237);
             this.pictureBox213.Name = "pictureBox213";
             this.pictureBox213.Size = new System.Drawing.Size(20, 20);
             this.pictureBox213.TabIndex = 218;
@@ -1942,7 +1416,7 @@
             // 
             this.pictureBox214.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox214.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox214.Location = new System.Drawing.Point(470, 188);
+            this.pictureBox214.Location = new System.Drawing.Point(414, 188);
             this.pictureBox214.Name = "pictureBox214";
             this.pictureBox214.Size = new System.Drawing.Size(20, 20);
             this.pictureBox214.TabIndex = 217;
@@ -1953,7 +1427,7 @@
             // 
             this.pictureBox215.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox215.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox215.Location = new System.Drawing.Point(470, 139);
+            this.pictureBox215.Location = new System.Drawing.Point(414, 139);
             this.pictureBox215.Name = "pictureBox215";
             this.pictureBox215.Size = new System.Drawing.Size(20, 20);
             this.pictureBox215.TabIndex = 216;
@@ -1964,7 +1438,7 @@
             // 
             this.pictureBox216.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox216.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox216.Location = new System.Drawing.Point(535, 239);
+            this.pictureBox216.Location = new System.Drawing.Point(473, 239);
             this.pictureBox216.Name = "pictureBox216";
             this.pictureBox216.Size = new System.Drawing.Size(20, 20);
             this.pictureBox216.TabIndex = 221;
@@ -1975,7 +1449,7 @@
             // 
             this.pictureBox217.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox217.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox217.Location = new System.Drawing.Point(535, 190);
+            this.pictureBox217.Location = new System.Drawing.Point(473, 190);
             this.pictureBox217.Name = "pictureBox217";
             this.pictureBox217.Size = new System.Drawing.Size(20, 20);
             this.pictureBox217.TabIndex = 220;
@@ -1986,7 +1460,7 @@
             // 
             this.pictureBox218.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox218.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox218.Location = new System.Drawing.Point(535, 141);
+            this.pictureBox218.Location = new System.Drawing.Point(473, 141);
             this.pictureBox218.Name = "pictureBox218";
             this.pictureBox218.Size = new System.Drawing.Size(20, 20);
             this.pictureBox218.TabIndex = 219;
@@ -2030,56 +1504,12 @@
             // 
             this.pictureBox225.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox225.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox225.Location = new System.Drawing.Point(535, 759);
+            this.pictureBox225.Location = new System.Drawing.Point(528, 764);
             this.pictureBox225.Name = "pictureBox225";
             this.pictureBox225.Size = new System.Drawing.Size(20, 20);
             this.pictureBox225.TabIndex = 230;
             this.pictureBox225.TabStop = false;
             this.pictureBox225.Tag = "Coin";
-            // 
-            // pictureBox227
-            // 
-            this.pictureBox227.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox227.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox227.Location = new System.Drawing.Point(535, 689);
-            this.pictureBox227.Name = "pictureBox227";
-            this.pictureBox227.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox227.TabIndex = 228;
-            this.pictureBox227.TabStop = false;
-            this.pictureBox227.Tag = "Coin";
-            // 
-            // pictureBox228
-            // 
-            this.pictureBox228.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox228.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox228.Location = new System.Drawing.Point(680, 237);
-            this.pictureBox228.Name = "pictureBox228";
-            this.pictureBox228.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox228.TabIndex = 233;
-            this.pictureBox228.TabStop = false;
-            this.pictureBox228.Tag = "Coin";
-            // 
-            // pictureBox229
-            // 
-            this.pictureBox229.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox229.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox229.Location = new System.Drawing.Point(680, 188);
-            this.pictureBox229.Name = "pictureBox229";
-            this.pictureBox229.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox229.TabIndex = 232;
-            this.pictureBox229.TabStop = false;
-            this.pictureBox229.Tag = "Coin";
-            // 
-            // pictureBox230
-            // 
-            this.pictureBox230.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox230.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox230.Location = new System.Drawing.Point(680, 139);
-            this.pictureBox230.Name = "pictureBox230";
-            this.pictureBox230.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox230.TabIndex = 231;
-            this.pictureBox230.TabStop = false;
-            this.pictureBox230.Tag = "Coin";
             // 
             // pictureBox231
             // 
@@ -2118,7 +1548,7 @@
             // 
             this.pictureBox234.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox234.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox234.Location = new System.Drawing.Point(1075, 237);
+            this.pictureBox234.Location = new System.Drawing.Point(1068, 237);
             this.pictureBox234.Name = "pictureBox234";
             this.pictureBox234.Size = new System.Drawing.Size(20, 20);
             this.pictureBox234.TabIndex = 239;
@@ -2129,7 +1559,7 @@
             // 
             this.pictureBox235.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox235.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox235.Location = new System.Drawing.Point(1075, 188);
+            this.pictureBox235.Location = new System.Drawing.Point(1068, 188);
             this.pictureBox235.Name = "pictureBox235";
             this.pictureBox235.Size = new System.Drawing.Size(20, 20);
             this.pictureBox235.TabIndex = 238;
@@ -2140,7 +1570,7 @@
             // 
             this.pictureBox236.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox236.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox236.Location = new System.Drawing.Point(1075, 139);
+            this.pictureBox236.Location = new System.Drawing.Point(1068, 139);
             this.pictureBox236.Name = "pictureBox236";
             this.pictureBox236.Size = new System.Drawing.Size(20, 20);
             this.pictureBox236.TabIndex = 237;
@@ -2217,7 +1647,7 @@
             // 
             this.pictureBox247.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox247.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox247.Location = new System.Drawing.Point(531, 355);
+            this.pictureBox247.Location = new System.Drawing.Point(531, 379);
             this.pictureBox247.Name = "pictureBox247";
             this.pictureBox247.Size = new System.Drawing.Size(20, 20);
             this.pictureBox247.TabIndex = 252;
@@ -2272,23 +1702,12 @@
             // 
             this.pictureBox253.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox253.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox253.Location = new System.Drawing.Point(583, 759);
+            this.pictureBox253.Location = new System.Drawing.Point(581, 764);
             this.pictureBox253.Name = "pictureBox253";
             this.pictureBox253.Size = new System.Drawing.Size(20, 20);
             this.pictureBox253.TabIndex = 258;
             this.pictureBox253.TabStop = false;
             this.pictureBox253.Tag = "Coin";
-            // 
-            // pictureBox255
-            // 
-            this.pictureBox255.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox255.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox255.Location = new System.Drawing.Point(583, 689);
-            this.pictureBox255.Name = "pictureBox255";
-            this.pictureBox255.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox255.TabIndex = 256;
-            this.pictureBox255.TabStop = false;
-            this.pictureBox255.Tag = "Coin";
             // 
             // gameTimer
             // 
@@ -2374,7 +1793,7 @@
             // pictureBox68
             // 
             this.pictureBox68.BackColor = System.Drawing.SystemColors.HotTrack;
-            this.pictureBox68.Location = new System.Drawing.Point(631, 761);
+            this.pictureBox68.Location = new System.Drawing.Point(637, 764);
             this.pictureBox68.Name = "pictureBox68";
             this.pictureBox68.Size = new System.Drawing.Size(20, 20);
             this.pictureBox68.TabIndex = 285;
@@ -2392,14 +1811,25 @@
             this.pictureBox79.TabStop = false;
             this.pictureBox79.Tag = "Coin";
             // 
+            // pictureBox25
+            // 
+            this.pictureBox25.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
+            this.pictureBox25.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox25.Location = new System.Drawing.Point(528, 700);
+            this.pictureBox25.Name = "pictureBox25";
+            this.pictureBox25.Size = new System.Drawing.Size(20, 20);
+            this.pictureBox25.TabIndex = 324;
+            this.pictureBox25.TabStop = false;
+            this.pictureBox25.Tag = "Coin";
+            // 
             // pictureBox27
             // 
             this.pictureBox27.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox27.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox27.Location = new System.Drawing.Point(529, 405);
+            this.pictureBox27.Location = new System.Drawing.Point(1068, 696);
             this.pictureBox27.Name = "pictureBox27";
             this.pictureBox27.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox27.TabIndex = 304;
+            this.pictureBox27.TabIndex = 323;
             this.pictureBox27.TabStop = false;
             this.pictureBox27.Tag = "Coin";
             // 
@@ -2407,10 +1837,10 @@
             // 
             this.pictureBox30.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox30.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox30.Location = new System.Drawing.Point(1069, 401);
+            this.pictureBox30.Location = new System.Drawing.Point(1001, 696);
             this.pictureBox30.Name = "pictureBox30";
             this.pictureBox30.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox30.TabIndex = 303;
+            this.pictureBox30.TabIndex = 322;
             this.pictureBox30.TabStop = false;
             this.pictureBox30.Tag = "Coin";
             // 
@@ -2418,10 +1848,10 @@
             // 
             this.pictureBox33.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox33.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox33.Location = new System.Drawing.Point(1002, 401);
+            this.pictureBox33.Location = new System.Drawing.Point(947, 696);
             this.pictureBox33.Name = "pictureBox33";
             this.pictureBox33.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox33.TabIndex = 302;
+            this.pictureBox33.TabIndex = 321;
             this.pictureBox33.TabStop = false;
             this.pictureBox33.Tag = "Coin";
             // 
@@ -2429,10 +1859,10 @@
             // 
             this.pictureBox35.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox35.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox35.Location = new System.Drawing.Point(948, 401);
+            this.pictureBox35.Location = new System.Drawing.Point(897, 696);
             this.pictureBox35.Name = "pictureBox35";
             this.pictureBox35.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox35.TabIndex = 301;
+            this.pictureBox35.TabIndex = 320;
             this.pictureBox35.TabStop = false;
             this.pictureBox35.Tag = "Coin";
             // 
@@ -2440,10 +1870,10 @@
             // 
             this.pictureBox37.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox37.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox37.Location = new System.Drawing.Point(898, 401);
+            this.pictureBox37.Location = new System.Drawing.Point(847, 696);
             this.pictureBox37.Name = "pictureBox37";
             this.pictureBox37.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox37.TabIndex = 300;
+            this.pictureBox37.TabIndex = 319;
             this.pictureBox37.TabStop = false;
             this.pictureBox37.Tag = "Coin";
             // 
@@ -2451,10 +1881,10 @@
             // 
             this.pictureBox38.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox38.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox38.Location = new System.Drawing.Point(848, 401);
+            this.pictureBox38.Location = new System.Drawing.Point(790, 696);
             this.pictureBox38.Name = "pictureBox38";
             this.pictureBox38.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox38.TabIndex = 299;
+            this.pictureBox38.TabIndex = 318;
             this.pictureBox38.TabStop = false;
             this.pictureBox38.Tag = "Coin";
             // 
@@ -2462,10 +1892,10 @@
             // 
             this.pictureBox39.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox39.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox39.Location = new System.Drawing.Point(791, 401);
+            this.pictureBox39.Location = new System.Drawing.Point(733, 696);
             this.pictureBox39.Name = "pictureBox39";
             this.pictureBox39.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox39.TabIndex = 298;
+            this.pictureBox39.TabIndex = 317;
             this.pictureBox39.TabStop = false;
             this.pictureBox39.Tag = "Coin";
             // 
@@ -2473,10 +1903,10 @@
             // 
             this.pictureBox40.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox40.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox40.Location = new System.Drawing.Point(734, 401);
+            this.pictureBox40.Location = new System.Drawing.Point(679, 700);
             this.pictureBox40.Name = "pictureBox40";
             this.pictureBox40.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox40.TabIndex = 297;
+            this.pictureBox40.TabIndex = 316;
             this.pictureBox40.TabStop = false;
             this.pictureBox40.Tag = "Coin";
             // 
@@ -2484,10 +1914,10 @@
             // 
             this.pictureBox41.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox41.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox41.Location = new System.Drawing.Point(680, 405);
+            this.pictureBox41.Location = new System.Drawing.Point(634, 700);
             this.pictureBox41.Name = "pictureBox41";
             this.pictureBox41.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox41.TabIndex = 296;
+            this.pictureBox41.TabIndex = 315;
             this.pictureBox41.TabStop = false;
             this.pictureBox41.Tag = "Coin";
             // 
@@ -2495,10 +1925,10 @@
             // 
             this.pictureBox42.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox42.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox42.Location = new System.Drawing.Point(635, 405);
+            this.pictureBox42.Location = new System.Drawing.Point(581, 696);
             this.pictureBox42.Name = "pictureBox42";
             this.pictureBox42.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox42.TabIndex = 295;
+            this.pictureBox42.TabIndex = 314;
             this.pictureBox42.TabStop = false;
             this.pictureBox42.Tag = "Coin";
             // 
@@ -2506,10 +1936,10 @@
             // 
             this.pictureBox43.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox43.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox43.Location = new System.Drawing.Point(582, 401);
+            this.pictureBox43.Location = new System.Drawing.Point(469, 698);
             this.pictureBox43.Name = "pictureBox43";
             this.pictureBox43.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox43.TabIndex = 294;
+            this.pictureBox43.TabIndex = 313;
             this.pictureBox43.TabStop = false;
             this.pictureBox43.Tag = "Coin";
             // 
@@ -2517,10 +1947,10 @@
             // 
             this.pictureBox44.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox44.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox44.Location = new System.Drawing.Point(470, 403);
+            this.pictureBox44.Location = new System.Drawing.Point(411, 696);
             this.pictureBox44.Name = "pictureBox44";
             this.pictureBox44.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox44.TabIndex = 293;
+            this.pictureBox44.TabIndex = 312;
             this.pictureBox44.TabStop = false;
             this.pictureBox44.Tag = "Coin";
             // 
@@ -2528,10 +1958,10 @@
             // 
             this.pictureBox45.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox45.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox45.Location = new System.Drawing.Point(412, 401);
+            this.pictureBox45.Location = new System.Drawing.Point(346, 696);
             this.pictureBox45.Name = "pictureBox45";
             this.pictureBox45.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox45.TabIndex = 292;
+            this.pictureBox45.TabIndex = 311;
             this.pictureBox45.TabStop = false;
             this.pictureBox45.Tag = "Coin";
             // 
@@ -2539,10 +1969,10 @@
             // 
             this.pictureBox46.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox46.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox46.Location = new System.Drawing.Point(347, 401);
+            this.pictureBox46.Location = new System.Drawing.Point(274, 696);
             this.pictureBox46.Name = "pictureBox46";
             this.pictureBox46.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox46.TabIndex = 291;
+            this.pictureBox46.TabIndex = 310;
             this.pictureBox46.TabStop = false;
             this.pictureBox46.Tag = "Coin";
             // 
@@ -2550,10 +1980,10 @@
             // 
             this.pictureBox47.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox47.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox47.Location = new System.Drawing.Point(275, 401);
+            this.pictureBox47.Location = new System.Drawing.Point(207, 696);
             this.pictureBox47.Name = "pictureBox47";
             this.pictureBox47.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox47.TabIndex = 290;
+            this.pictureBox47.TabIndex = 309;
             this.pictureBox47.TabStop = false;
             this.pictureBox47.Tag = "Coin";
             // 
@@ -2561,10 +1991,10 @@
             // 
             this.pictureBox49.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox49.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox49.Location = new System.Drawing.Point(208, 401);
+            this.pictureBox49.Location = new System.Drawing.Point(143, 696);
             this.pictureBox49.Name = "pictureBox49";
             this.pictureBox49.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox49.TabIndex = 289;
+            this.pictureBox49.TabIndex = 308;
             this.pictureBox49.TabStop = false;
             this.pictureBox49.Tag = "Coin";
             // 
@@ -2572,23 +2002,31 @@
             // 
             this.pictureBox52.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
             this.pictureBox52.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox52.Location = new System.Drawing.Point(144, 401);
+            this.pictureBox52.Location = new System.Drawing.Point(80, 698);
             this.pictureBox52.Name = "pictureBox52";
             this.pictureBox52.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox52.TabIndex = 288;
+            this.pictureBox52.TabIndex = 307;
             this.pictureBox52.TabStop = false;
             this.pictureBox52.Tag = "Coin";
             // 
             // pictureBox55
             // 
-            this.pictureBox55.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
-            this.pictureBox55.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.pictureBox55.Location = new System.Drawing.Point(81, 403);
+            this.pictureBox55.Location = new System.Drawing.Point(222, 700);
             this.pictureBox55.Name = "pictureBox55";
-            this.pictureBox55.Size = new System.Drawing.Size(20, 20);
-            this.pictureBox55.TabIndex = 287;
+            this.pictureBox55.Size = new System.Drawing.Size(8, 8);
+            this.pictureBox55.TabIndex = 306;
             this.pictureBox55.TabStop = false;
-            this.pictureBox55.Tag = "Coin";
+            // 
+            // pictureBox81
+            // 
+            this.pictureBox81.BackgroundImage = global::PACMAN_V2.Properties.Resources.coin;
+            this.pictureBox81.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox81.Location = new System.Drawing.Point(1068, 762);
+            this.pictureBox81.Name = "pictureBox81";
+            this.pictureBox81.Size = new System.Drawing.Size(20, 20);
+            this.pictureBox81.TabIndex = 326;
+            this.pictureBox81.TabStop = false;
+            this.pictureBox81.Tag = "Coin";
             // 
             // Login
             // 
@@ -2598,10 +2036,10 @@
             this.Login.Controls.Add(this.label1);
             this.Login.Controls.Add(this.Inserimento_nome);
             this.Login.Controls.Add(this.ImmagineAvvio);
-            this.Login.Location = new System.Drawing.Point(-2, 0);
+            this.Login.Location = new System.Drawing.Point(-2, 1);
             this.Login.Name = "Login";
-            this.Login.Size = new System.Drawing.Size(1168, 862);
-            this.Login.TabIndex = 305;
+            this.Login.Size = new System.Drawing.Size(1173, 861);
+            this.Login.TabIndex = 327;
             // 
             // SceltaDifficoltà
             // 
@@ -2663,6 +2101,8 @@
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(1165, 861);
             this.Controls.Add(this.Login);
+            this.Controls.Add(this.pictureBox81);
+            this.Controls.Add(this.pictureBox25);
             this.Controls.Add(this.pictureBox27);
             this.Controls.Add(this.pictureBox30);
             this.Controls.Add(this.pictureBox33);
@@ -2691,7 +2131,6 @@
             this.Controls.Add(this.pictureBox108);
             this.Controls.Add(this.pictureBox67);
             this.Controls.Add(this.pictureBox253);
-            this.Controls.Add(this.pictureBox255);
             this.Controls.Add(this.pictureBox250);
             this.Controls.Add(this.pictureBox251);
             this.Controls.Add(this.pictureBox252);
@@ -2709,11 +2148,7 @@
             this.Controls.Add(this.pictureBox231);
             this.Controls.Add(this.pictureBox232);
             this.Controls.Add(this.pictureBox233);
-            this.Controls.Add(this.pictureBox228);
-            this.Controls.Add(this.pictureBox229);
-            this.Controls.Add(this.pictureBox230);
             this.Controls.Add(this.pictureBox225);
-            this.Controls.Add(this.pictureBox227);
             this.Controls.Add(this.pictureBox222);
             this.Controls.Add(this.pictureBox223);
             this.Controls.Add(this.pictureBox224);
@@ -2723,12 +2158,6 @@
             this.Controls.Add(this.pictureBox213);
             this.Controls.Add(this.pictureBox214);
             this.Controls.Add(this.pictureBox215);
-            this.Controls.Add(this.pictureBox210);
-            this.Controls.Add(this.pictureBox211);
-            this.Controls.Add(this.pictureBox212);
-            this.Controls.Add(this.pictureBox204);
-            this.Controls.Add(this.pictureBox205);
-            this.Controls.Add(this.pictureBox206);
             this.Controls.Add(this.pictureBox201);
             this.Controls.Add(this.pictureBox202);
             this.Controls.Add(this.pictureBox203);
@@ -2741,8 +2170,6 @@
             this.Controls.Add(this.pictureBox180);
             this.Controls.Add(this.pictureBox181);
             this.Controls.Add(this.pictureBox182);
-            this.Controls.Add(this.pictureBox169);
-            this.Controls.Add(this.pictureBox170);
             this.Controls.Add(this.pictureBox171);
             this.Controls.Add(this.pictureBox172);
             this.Controls.Add(this.pictureBox173);
@@ -2750,18 +2177,6 @@
             this.Controls.Add(this.pictureBox175);
             this.Controls.Add(this.pictureBox176);
             this.Controls.Add(this.pictureBox177);
-            this.Controls.Add(this.pictureBox178);
-            this.Controls.Add(this.pictureBox147);
-            this.Controls.Add(this.pictureBox148);
-            this.Controls.Add(this.pictureBox149);
-            this.Controls.Add(this.pictureBox150);
-            this.Controls.Add(this.pictureBox151);
-            this.Controls.Add(this.pictureBox152);
-            this.Controls.Add(this.pictureBox153);
-            this.Controls.Add(this.pictureBox154);
-            this.Controls.Add(this.pictureBox155);
-            this.Controls.Add(this.pictureBox156);
-            this.Controls.Add(this.pictureBox157);
             this.Controls.Add(this.pictureBox136);
             this.Controls.Add(this.pictureBox137);
             this.Controls.Add(this.pictureBox138);
@@ -2772,12 +2187,10 @@
             this.Controls.Add(this.pictureBox144);
             this.Controls.Add(this.pictureBox145);
             this.Controls.Add(this.pictureBox146);
-            this.Controls.Add(this.pictureBox114);
             this.Controls.Add(this.pictureBox115);
             this.Controls.Add(this.pictureBox116);
             this.Controls.Add(this.pictureBox117);
             this.Controls.Add(this.pictureBox118);
-            this.Controls.Add(this.pictureBox119);
             this.Controls.Add(this.pictureBox120);
             this.Controls.Add(this.pictureBox121);
             this.Controls.Add(this.pictureBox122);
@@ -2793,25 +2206,12 @@
             this.Controls.Add(this.pictureBox112);
             this.Controls.Add(this.pictureBox113);
             this.Controls.Add(this.pictureBox92);
-            this.Controls.Add(this.pictureBox93);
             this.Controls.Add(this.pictureBox94);
             this.Controls.Add(this.pictureBox95);
-            this.Controls.Add(this.pictureBox96);
             this.Controls.Add(this.pictureBox97);
             this.Controls.Add(this.pictureBox98);
-            this.Controls.Add(this.pictureBox99);
             this.Controls.Add(this.pictureBox100);
             this.Controls.Add(this.pictureBox102);
-            this.Controls.Add(this.pictureBox70);
-            this.Controls.Add(this.pictureBox71);
-            this.Controls.Add(this.pictureBox72);
-            this.Controls.Add(this.pictureBox73);
-            this.Controls.Add(this.pictureBox74);
-            this.Controls.Add(this.pictureBox75);
-            this.Controls.Add(this.pictureBox76);
-            this.Controls.Add(this.pictureBox77);
-            this.Controls.Add(this.pictureBox78);
-            this.Controls.Add(this.pictureBox80);
             this.Controls.Add(this.pictureBox59);
             this.Controls.Add(this.pictureBox61);
             this.Controls.Add(this.pictureBox62);
@@ -2832,17 +2232,12 @@
             this.Controls.Add(this.pictureBox32);
             this.Controls.Add(this.pictureBox34);
             this.Controls.Add(this.pictureBox36);
-            this.Controls.Add(this.pictureBox25);
             this.Controls.Add(this.pictureBox24);
             this.Controls.Add(this.pictureBox23);
-            this.Controls.Add(this.pictureBox22);
             this.Controls.Add(this.pictureBox21);
-            this.Controls.Add(this.pictureBox20);
             this.Controls.Add(this.pictureBox19);
             this.Controls.Add(this.pictureBox18);
-            this.Controls.Add(this.pictureBox17);
             this.Controls.Add(this.pictureBox16);
-            this.Controls.Add(this.pictureBox15);
             this.Controls.Add(this.pictureBox14);
             this.Controls.Add(this.pictureBox13);
             this.Controls.Add(this.pictureBox12);
@@ -2880,17 +2275,12 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox12)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox13)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox14)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox15)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).EndInit();
@@ -2911,24 +2301,11 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox64)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox65)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox69)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox70)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox71)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox72)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox73)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox74)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox75)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox76)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox77)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox78)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox80)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox92)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox93)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox94)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox95)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox96)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox97)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox98)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox99)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox100)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox102)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).EndInit();
@@ -2940,12 +2317,10 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox111)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox112)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox113)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox114)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox115)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox116)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox117)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox118)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox119)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox120)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox121)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox122)).EndInit();
@@ -2961,19 +2336,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox144)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox145)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox146)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox147)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox148)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox149)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox150)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox151)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox152)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox153)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox154)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox155)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox156)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox157)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox169)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox170)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox171)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox172)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox173)).EndInit();
@@ -2981,7 +2343,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox175)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox176)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox177)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox178)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox180)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox181)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox182)).EndInit();
@@ -2994,12 +2355,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox201)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox202)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox203)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox204)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox205)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox206)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox210)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox211)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox212)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox213)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox214)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox215)).EndInit();
@@ -3010,10 +2365,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox223)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox224)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox225)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox227)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox228)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox229)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox230)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox231)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox232)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox233)).EndInit();
@@ -3032,7 +2383,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox251)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox252)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox253)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox255)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox67)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox108)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.PacMan)).EndInit();
@@ -3042,6 +2392,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox66)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox68)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox79)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox33)).EndInit();
@@ -3060,6 +2411,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox49)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox52)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox55)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).EndInit();
             this.Login.ResumeLayout(false);
             this.Login.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ImmagineAvvio)).EndInit();
@@ -3087,17 +2439,12 @@
         private System.Windows.Forms.PictureBox pictureBox12;
         private System.Windows.Forms.PictureBox pictureBox13;
         private System.Windows.Forms.PictureBox pictureBox14;
-        private System.Windows.Forms.PictureBox pictureBox15;
         private System.Windows.Forms.PictureBox pictureBox16;
-        private System.Windows.Forms.PictureBox pictureBox17;
         private System.Windows.Forms.PictureBox pictureBox18;
         private System.Windows.Forms.PictureBox pictureBox19;
-        private System.Windows.Forms.PictureBox pictureBox20;
         private System.Windows.Forms.PictureBox pictureBox21;
-        private System.Windows.Forms.PictureBox pictureBox22;
         private System.Windows.Forms.PictureBox pictureBox23;
         private System.Windows.Forms.PictureBox pictureBox24;
-        private System.Windows.Forms.PictureBox pictureBox25;
         private System.Windows.Forms.PictureBox pictureBox26;
         private System.Windows.Forms.PictureBox pictureBox28;
         private System.Windows.Forms.PictureBox pictureBox29;
@@ -3168,19 +2515,6 @@
         private System.Windows.Forms.PictureBox pictureBox144;
         private System.Windows.Forms.PictureBox pictureBox145;
         private System.Windows.Forms.PictureBox pictureBox146;
-        private System.Windows.Forms.PictureBox pictureBox147;
-        private System.Windows.Forms.PictureBox pictureBox148;
-        private System.Windows.Forms.PictureBox pictureBox149;
-        private System.Windows.Forms.PictureBox pictureBox150;
-        private System.Windows.Forms.PictureBox pictureBox151;
-        private System.Windows.Forms.PictureBox pictureBox152;
-        private System.Windows.Forms.PictureBox pictureBox153;
-        private System.Windows.Forms.PictureBox pictureBox154;
-        private System.Windows.Forms.PictureBox pictureBox155;
-        private System.Windows.Forms.PictureBox pictureBox156;
-        private System.Windows.Forms.PictureBox pictureBox157;
-        private System.Windows.Forms.PictureBox pictureBox169;
-        private System.Windows.Forms.PictureBox pictureBox170;
         private System.Windows.Forms.PictureBox pictureBox171;
         private System.Windows.Forms.PictureBox pictureBox172;
         private System.Windows.Forms.PictureBox pictureBox173;
@@ -3188,7 +2522,6 @@
         private System.Windows.Forms.PictureBox pictureBox175;
         private System.Windows.Forms.PictureBox pictureBox176;
         private System.Windows.Forms.PictureBox pictureBox177;
-        private System.Windows.Forms.PictureBox pictureBox178;
         private System.Windows.Forms.PictureBox pictureBox180;
         private System.Windows.Forms.PictureBox pictureBox181;
         private System.Windows.Forms.PictureBox pictureBox182;
@@ -3201,12 +2534,6 @@
         private System.Windows.Forms.PictureBox pictureBox201;
         private System.Windows.Forms.PictureBox pictureBox202;
         private System.Windows.Forms.PictureBox pictureBox203;
-        private System.Windows.Forms.PictureBox pictureBox204;
-        private System.Windows.Forms.PictureBox pictureBox205;
-        private System.Windows.Forms.PictureBox pictureBox206;
-        private System.Windows.Forms.PictureBox pictureBox210;
-        private System.Windows.Forms.PictureBox pictureBox211;
-        private System.Windows.Forms.PictureBox pictureBox212;
         private System.Windows.Forms.PictureBox pictureBox213;
         private System.Windows.Forms.PictureBox pictureBox214;
         private System.Windows.Forms.PictureBox pictureBox215;
@@ -3217,10 +2544,6 @@
         private System.Windows.Forms.PictureBox pictureBox223;
         private System.Windows.Forms.PictureBox pictureBox224;
         private System.Windows.Forms.PictureBox pictureBox225;
-        private System.Windows.Forms.PictureBox pictureBox227;
-        private System.Windows.Forms.PictureBox pictureBox228;
-        private System.Windows.Forms.PictureBox pictureBox229;
-        private System.Windows.Forms.PictureBox pictureBox230;
         private System.Windows.Forms.PictureBox pictureBox231;
         private System.Windows.Forms.PictureBox pictureBox232;
         private System.Windows.Forms.PictureBox pictureBox233;
@@ -3239,7 +2562,6 @@
         private System.Windows.Forms.PictureBox pictureBox251;
         private System.Windows.Forms.PictureBox pictureBox252;
         private System.Windows.Forms.PictureBox pictureBox253;
-        private System.Windows.Forms.PictureBox pictureBox255;
         private System.Windows.Forms.Timer gameTimer;
         private System.Windows.Forms.PictureBox pictureBox67;
         private System.Windows.Forms.PictureBox pictureBox108;
@@ -3268,6 +2590,8 @@
         private System.Windows.Forms.PictureBox pictureBox49;
         private System.Windows.Forms.PictureBox pictureBox52;
         private System.Windows.Forms.PictureBox pictureBox55;
+        private System.Windows.Forms.PictureBox pictureBox25;
+        private System.Windows.Forms.PictureBox pictureBox81;
         private System.Windows.Forms.Panel Login;
         private System.Windows.Forms.ComboBox SceltaDifficoltà;
         private System.Windows.Forms.Button button1;

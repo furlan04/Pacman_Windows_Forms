@@ -11,20 +11,22 @@ namespace PACMAN_V2
     {
         #region VARIABILI
         Giocatore? player = null;
+        int n = 0;
         bool su, giu, sinistra, destra;
         int cont = 0;
         int pacman_mangiati = 0, bonus_mangiati = 0;
-        int punti, velocitàPacMan = 40, numeroVite = 3, livello = 1;
+        int punti, velocitàPacMan = 50, numeroVite = 3, livello = 1;
         bool rosa_mangibile = false, rosso_mangibile = false;
         bool perso = false;
         int difficoltà = 3;
         Keys pL = Keys.None;
         int redlast = 10;
         int pinkLast = 10;
-        const int speed_facile = 40;
-        const int speed_difficile = 50;
+        const int speed_facile = 50;
+        const int speed_difficile = 60;
         Random r = new Random();
         List<Giocatore> giocatores = new List<Giocatore>();
+        Coordinate pacman = new Coordinate { X=49, Y=86}, rosa = new Coordinate { X=813, Y=522 }, rosso = new Coordinate { X=902, Y=522 };
         const string path = "../../../dati.csv";
         #endregion
         void caricaUtenti()
@@ -78,7 +80,7 @@ namespace PACMAN_V2
         private void button1_Click(object sender, EventArgs e)
         {
             string nome = Inserimento_nome.Text;
-            if(SceltaDifficoltà.SelectedItem == null)
+            if (SceltaDifficoltà.SelectedItem == null)
             {
                 difficoltà = 1;
             }
@@ -386,6 +388,7 @@ namespace PACMAN_V2
             if (player != null)
             {
                 info.Text = $"{player.Nome} - Punti: {punti} - Record: {player.Record} - Livello: {livello} - Vite: {numeroVite}";
+                #region GESTIONE MANGIABILI
                 if (cont < 12 && (rosso_mangibile || rosa_mangibile))
                 {
                     cont++;
@@ -397,6 +400,7 @@ namespace PACMAN_V2
                     rosso_mangibile = false;
                     rosa_mangibile = false;
                 }
+                #endregion
                 #region Immagini e Movimenti
                 if (rosa_mangibile)
                 {
@@ -501,6 +505,7 @@ namespace PACMAN_V2
                         {
                             if (PacMan.Bounds.IntersectsWith(item.Bounds))
                             {
+                                punti += 50;
                                 item.Visible = false;
                                 rosa_mangibile = true;
                                 rosso_mangibile = true;
@@ -532,6 +537,13 @@ namespace PACMAN_V2
                             item.Visible = false;
                         }
                     }
+                }
+                #endregion
+                #region AGGIUNTA VITA
+                if ((punti - 10000 * n) / 10000 > 0)
+                {
+                    n++;
+                    numeroVite++;
                 }
                 #endregion
                 #region Controllo Vittoria
@@ -578,24 +590,24 @@ namespace PACMAN_V2
                 Fantasma_Rosso.BringToFront();
                 if (numeroVite > 0)
                 {
-                    Fantasma_Rosso.Left = 902;
-                    Fantasma_Rosso.Top = 522;
-                    Fantasma_Rosa.Left = 813;
-                    Fantasma_Rosa.Top = 522;
-                    PacMan.Left = 49;
-                    PacMan.Top = 86;
+                    Fantasma_Rosso.Left = rosso.X;
+                    Fantasma_Rosso.Top = rosso.Y;
+                    Fantasma_Rosa.Left = rosa.X;
+                    Fantasma_Rosa.Top = rosa.Y;
+                    PacMan.Left = pacman.X;
+                    PacMan.Top = pacman.Y;
                 }
                 else
                 {
                     PacMan.Visible = false;
                     Fantasma_Rosa.Visible = false;
                     Fantasma_Rosso.Visible = false;
-                    Fantasma_Rosso.Left = 902;
-                    Fantasma_Rosso.Top = 522;
-                    Fantasma_Rosa.Left = 813;
-                    Fantasma_Rosa.Top = 522;
-                    PacMan.Left = 49;
-                    PacMan.Top = 86;
+                    Fantasma_Rosso.Left = rosso.X;
+                    Fantasma_Rosso.Top = rosso.Y;
+                    Fantasma_Rosa.Left = rosa.X;
+                    Fantasma_Rosa.Top = rosa.Y;
+                    PacMan.Left = pacman.X;
+                    PacMan.Top = pacman.Y;
                     perso = true;
                     using (StreamWriter w = new StreamWriter(path))
                     {
