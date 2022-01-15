@@ -565,6 +565,15 @@ namespace PACMAN_V2
             }
         }
         #endregion
+        private void ResetPosizioni()
+        {
+            Fantasma_Rosso.Left = rosso.X;
+            Fantasma_Rosso.Top = rosso.Y;
+            Fantasma_Rosa.Left = rosa.X;
+            Fantasma_Rosa.Top = rosa.Y;
+            PacMan.Left = pacman.X;
+            PacMan.Top = pacman.Y;
+        }
         private void Reset()
         {
             if (player == null)
@@ -590,24 +599,14 @@ namespace PACMAN_V2
                 Fantasma_Rosso.BringToFront();
                 if (numeroVite > 0)
                 {
-                    Fantasma_Rosso.Left = rosso.X;
-                    Fantasma_Rosso.Top = rosso.Y;
-                    Fantasma_Rosa.Left = rosa.X;
-                    Fantasma_Rosa.Top = rosa.Y;
-                    PacMan.Left = pacman.X;
-                    PacMan.Top = pacman.Y;
+                    ResetPosizioni();
                 }
                 else
                 {
                     PacMan.Visible = false;
                     Fantasma_Rosa.Visible = false;
                     Fantasma_Rosso.Visible = false;
-                    Fantasma_Rosso.Left = rosso.X;
-                    Fantasma_Rosso.Top = rosso.Y;
-                    Fantasma_Rosa.Left = rosa.X;
-                    Fantasma_Rosa.Top = rosa.Y;
-                    PacMan.Left = pacman.X;
-                    PacMan.Top = pacman.Y;
+                    ResetPosizioni();
                     perso = true;
                     using (StreamWriter w = new StreamWriter(path))
                     {
