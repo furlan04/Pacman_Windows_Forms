@@ -2100,7 +2100,6 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(1165, 861);
-            this.Controls.Add(this.Login);
             this.Controls.Add(this.pictureBox81);
             this.Controls.Add(this.pictureBox25);
             this.Controls.Add(this.pictureBox27);
@@ -2255,6 +2254,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.Fantasma_Rosso);
             this.Controls.Add(this.info);
+            this.Controls.Add(this.Login);
             this.ForeColor = System.Drawing.SystemColors.Highlight;
             this.Name = "Form1";
             this.Text = "Form1";
