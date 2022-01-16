@@ -191,6 +191,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.Inserimento_nome = new System.Windows.Forms.TextBox();
             this.ImmagineAvvio = new System.Windows.Forms.PictureBox();
+            this.Pacman_Moviment = new System.Windows.Forms.Timer(this.components);
+            this.Movimento_fantasmi = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.Fantasma_Rosso)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Fantasma_Rosa)).BeginInit();
@@ -1712,7 +1714,7 @@
             // gameTimer
             // 
             this.gameTimer.Enabled = true;
-            this.gameTimer.Interval = 500;
+            this.gameTimer.Interval = 20;
             this.gameTimer.Tick += new System.EventHandler(this.Form1_gameTimerTick);
             // 
             // pictureBox67
@@ -2093,6 +2095,18 @@
             this.ImmagineAvvio.Size = new System.Drawing.Size(560, 378);
             this.ImmagineAvvio.TabIndex = 0;
             this.ImmagineAvvio.TabStop = false;
+            // 
+            // Pacman_Moviment
+            // 
+            this.Pacman_Moviment.Enabled = true;
+            this.Pacman_Moviment.Interval = 500;
+            this.Pacman_Moviment.Tick += new System.EventHandler(this.Pacman_Moviment_Tick);
+            // 
+            // Movimento_fantasmi
+            // 
+            this.Movimento_fantasmi.Enabled = true;
+            this.Movimento_fantasmi.Interval = 500;
+            this.Movimento_fantasmi.Tick += new System.EventHandler(this.Movimento_fantasmi_Tick);
             // 
             // Form1
             // 
@@ -2598,5 +2612,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox Inserimento_nome;
         private System.Windows.Forms.PictureBox ImmagineAvvio;
+        private System.Windows.Forms.Timer Pacman_Moviment;
+        private System.Windows.Forms.Timer Movimento_fantasmi;
     }
 }
