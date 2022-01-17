@@ -2271,7 +2271,7 @@
             this.Controls.Add(this.Login);
             this.ForeColor = System.Drawing.SystemColors.Highlight;
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "PACMAN";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.Fantasma_Rosso)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

@@ -92,7 +92,7 @@ namespace PACMAN_V2
 
             Reset();
         }
-        #region CONTROLLI
+        #region CONTROLLI / EVENTI
         bool èConsumabile(string tag)
         {
             return tag == "Coin" || tag == "Bonus" || tag == "Mangia";
@@ -114,6 +114,20 @@ namespace PACMAN_V2
                 }
             }
             return true;
+        }
+        void Vinto()
+        {
+            livello++;
+            foreach (Control item in this.Controls)
+            {
+                if (item is PictureBox)
+                {
+                    item.Visible = true;
+                }
+            }
+            rosso_mangibile = false;
+            rosso_mangibile = false;
+            Reset();
         }
         void EffettoPacMan(bool fantasmi)
         {
@@ -629,27 +643,17 @@ namespace PACMAN_V2
                 {
                     ControllaCollisioni();
                 }
-                #region CONTROLLI
+                #region AUMENTA PUNTI OGNI 10000
                 if ((punti - 10000 * n) / 10000 > 0)
                 {
                     n++;
                     numeroVite++;
                 }
+                #endregion
                 if (vittoria())
                 {
-                    livello++;
-                    foreach (Control item in this.Controls)
-                    {
-                        if (item is PictureBox)
-                        {
-                            item.Visible = true;
-                        }
-                    }
-                    rosso_mangibile = false;
-                    rosso_mangibile = false;
-                    Reset();
+                    Vinto();
                 }
-                #endregion
             }
         }
         #endregion
