@@ -46,6 +46,7 @@ namespace PACMAN_V2
                     {
                         Nome = dato[0],
                         Record = int.Parse(dato[1]),
+                        Livello = int.Parse(dato[2])
                     });
                 }
             }
@@ -56,26 +57,26 @@ namespace PACMAN_V2
             {
                 if (!giocatores.Contains(player))
                 {
-                    w.WriteLine($"{player.Nome};{punti}");
+                    w.WriteLine($"{player.Nome};{punti};{livello}");
                     foreach (var item in giocatores)
                     {
-                        w.WriteLine($"{item.Nome};{item.Record}");
+                        w.WriteLine($"{item.Nome};{item.Record};{item.Livello}");
                     }
                 }
                 else if (giocatores.Where(g => g.Nome.Equals(player.Nome)).First().Record < punti)
                 {
-                    w.WriteLine($"{player.Nome};{punti}");
+                    w.WriteLine($"{player.Nome};{punti};{livello}");
                     foreach (var item in giocatores)
                     {
                         if (!item.Equals(player))
-                            w.WriteLine($"{item.Nome};{item.Record}");
+                            w.WriteLine($"{item.Nome};{item.Record};{item.Livello}");
                     }
                 }
                 else
                 {
                     foreach (var item in giocatores)
                     {
-                        w.WriteLine($"{item.Nome};{item.Record}");
+                        w.WriteLine($"{item.Nome};{item.Record};{item.Livello}");
                     }
                 }
             }
