@@ -297,9 +297,9 @@ namespace PACMAN_V2
                         break;
                 }
             }
-            if(nome == null)
+            if(nome == "")
             {
-                nome = "nome-assente";
+                nome = "guest";
             }
             if (nome != null)
             {

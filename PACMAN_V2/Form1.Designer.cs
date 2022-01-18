@@ -436,9 +436,9 @@
             // pictureBox6
             // 
             this.pictureBox6.BackColor = System.Drawing.SystemColors.Info;
-            this.pictureBox6.Location = new System.Drawing.Point(-2, 836);
+            this.pictureBox6.Location = new System.Drawing.Point(-2, 822);
             this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(1168, 26);
+            this.pictureBox6.Size = new System.Drawing.Size(1168, 40);
             this.pictureBox6.TabIndex = 9;
             this.pictureBox6.TabStop = false;
             this.pictureBox6.Tag = "Muro";
